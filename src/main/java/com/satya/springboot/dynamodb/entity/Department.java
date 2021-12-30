@@ -7,14 +7,14 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * File: Department.java Copyright 2021 THERMOFISHER SCIENTIFIC. All rights reserved.
+ * File: Department.java Copyright 2021 Jaish Technologies. All rights reserved.
  *
- * <p>This software is the confidential and proprietary information of THERMOFISHER SCIENTIFIC. You
+ * <p>This software is the confidential and proprietary information of Jaish Technologies. You
  * shall not disclose such Confidential Information and shall use it only in accordance with the
- * terms of the license agreement you entered into with THERMOFISHER SCIENTIFIC.
+ * terms of the license agreement you entered into with Jaish Technologies.
  *
- * <p>Created on: 24/12/21, Created by: satyaveer.yadav, Version: 1.0, Project Name: Genexus/Ion
- * Reporter Last updated by: satyaveer.yadav
+ * <p>Created on: 24/12/21, Created by: satyaveer.yadav, Version: 1.0, Project Name: Sprint boot dynamodb app
+ * Last updated by: satyaveer.yadav
  */
 @Data
 @NoArgsConstructor
